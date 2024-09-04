@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Bachelor Student of Computer Science in Technical University Berlin.
+🌱 I’m currently learning Web-Development
 <!--
 **yevsavdev/yevsavdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
